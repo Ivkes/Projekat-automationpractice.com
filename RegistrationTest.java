@@ -19,7 +19,7 @@ public LoginPage loginPage;
 
 String ime= "IVANA";
 String prezime="VASIC";
-String email= "ivkesbg11@gmail.com";
+String email= "ivkesbg12@gmail.com";
 String sifra="11111";
 String imezadostavu="IVANA";
 String prezimezadostavu="VASIC";
